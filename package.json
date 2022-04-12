@@ -1,0 +1,23 @@
+{
+  "name": "jest-est",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan8597/JestTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan8597/JestTest/issues"
+  },
+  "homepage": "https://github.com/ivan8597/JestTest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
